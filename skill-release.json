@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "shop-feedback-cluster",
+  "source_version": "3c3c9c9d0ec61a7e96bbd5eab5345e325e6fca7cd9aa18ebbd695fe94f08775c",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "7210bbce9403ff0cde7b29d3326c25352d9e0cdab73cab16e31f786401034f3f",
+    "SKILL.md": "5ca03658c12dc6b9b7c799c28173d945dd1f804420fd5757a45c25c98499a4ad"
+  }
+}
